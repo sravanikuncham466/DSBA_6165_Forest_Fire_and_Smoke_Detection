@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
  
- <h1> Forest_Fire_and_Smoke_Detection</h1>
-</p>
+ <h1> 🔥  Forest_Fire_and_Smoke_Detection  💨</h1>
+</div>
 <p align="center">
 <strong>DSBA 6165: AI and Deep Learning</strong><br> 
 <strong>Submitted by:</strong> Sravani Kuncham, Farah Naz  <br>
