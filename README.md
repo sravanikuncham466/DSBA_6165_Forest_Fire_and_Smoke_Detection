@@ -8,7 +8,7 @@
 <strong>Instructor:</strong> Archit Parnami  
 </p>
 <p align="center">
-  📄 <a href= "DSBA_6165_Final_Report.pdf"> Final Report</a> | 🖥️ <a href = "Final%20Project%20Presentation%20Incremental%20Deep%20Learning%20for%20Fire,%20Smoke%20and%20Haze%20Detection.pdf">Presentation</a>
+  📄 <a href= "DSBA_6165_Final_Report.pdf"> Final Report</a> | 🖥️ <a href = "Final_Project_Presentation_Incremental_Deep_Learning_for_Fire_Smoke_and_Haze_Detection.pdf">Presentation</a>
  </p>                                                 
 
 ## 🔍 Project Overview
