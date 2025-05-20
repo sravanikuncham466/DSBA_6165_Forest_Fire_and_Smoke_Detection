@@ -1,4 +1,5 @@
 <p align="center">
+ 
  <h1> Forest_Fire_and_Smoke_Detection</h1>
 </p>
 <p align="center">
@@ -6,7 +7,9 @@
 <strong>Submitted by:</strong> Sravani Kuncham, Farah Naz  <br>
 <strong>Instructor:</strong> Archit Parnami  
 </p>
-                                                   
+<p align="center">
+  📄 <a href= "DSBA_6165_Final_Report.pdf"> Final Report</a> | 🖥️ <a href = "Final Project Presentation Incremental Deep Learning for Fire, Smoke and Haze Detection.pdf">Presentation</a>
+ </p>                                                 
 
                                                   
 
