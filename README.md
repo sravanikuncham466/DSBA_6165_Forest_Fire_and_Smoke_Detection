@@ -11,14 +11,13 @@
   📄 <a href= "DSBA_6165_Final_Report.pdf"> Final Report</a> | 🖥️ <a href = "Final Project Presentation Incremental Deep Learning for Fire, Smoke and Haze Detection.pdf">Presentation</a>
  </p>                                                 
 
-                                                  
+## 🔍 Project Overview
+This project applies **Learning without Forgetting (LwF)** to the problem of wildfire classification. We extend a pre-trained deep learning model to learn a new class (haze) without forgetting previously learned classes (fire, nofire, smoke, smokefire)
 
+<p align="center">
+<img width="900" height="400" src="https://github.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/blob/main/LWF%20model.png"> 
+</p>
+<p align="center">
+<img width="900" height="400" src="https://github.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/blob/main/Fine%20tune%20Xception.png">
+</p>
 
-
-
-
-
-
-**Overview:**
-
-Forest Fire and Smoke Detection: A project focused on developing a system to detect forest fires and smoke using machine learning and image processing techniques. The repository will explore various approaches for accurate and efficient detection to address the critical need for early fire warning systems.
