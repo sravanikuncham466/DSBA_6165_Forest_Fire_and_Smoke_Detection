@@ -15,11 +15,10 @@
 This project applies **Learning without Forgetting (LwF)** to the problem of wildfire classification. We extend a pre-trained deep learning model to learn a new class (haze) without forgetting previously learned classes (fire, nofire, smoke, smokefire)
 
 <p align="center">
-<img width="800" height="400" src="https://github.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/blob/main/LWF%20model.png"> 
-</p>
-
-<p align="center">
   <img width="950" height="400" src="https://raw.githubusercontent.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/main/Fine%20tune%20Xception.png">
+</p>
+<p align="center">
+<img width="800" height="400" src="https://github.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/blob/main/LWF%20model.png"> 
 </p>
 
 ## 📌 Objective
