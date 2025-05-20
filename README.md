@@ -17,6 +17,7 @@ This project applies **Learning without Forgetting (LwF)** to the problem of wil
 <p align="center">
 <img width="900" height="400" src="https://github.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/blob/main/LWF%20model.png"> 
 </p>
+
 <p align="center">
 <img width="900" height="400" src="https://github.com/sravanikuncham466/DSBA_6165_Forest_Fire_and_Smoke_Detection/blob/main/Fine%20tune%20Xception.png">
 </p>
