@@ -1,9 +1,11 @@
- # Forest_Fire_and_Smoke_Detection
-
-                                               DSBA 6165 - AI and Deep Learning 
-                                            Submitted by : Sravani Kuncham, Farah Naz
-                                                  Instructor : Archit Parnami
-
+<p align="center">
+ <h1> Forest_Fire_and_Smoke_Detection</h1>
+</p>
+<p align="center">
+<strong>DSBA 6165: AI and Deep Learning</strong><br> 
+<strong>Submitted by:</strong> Sravani Kuncham, Farah Naz  <br>
+<strong>Instructor:</strong> Archit Parnami  
+</p>
                                                   
 
                                                   
